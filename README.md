@@ -1,2 +1,2 @@
 # SegmentCutouts
-A Jupyter notebook that generates cutouts given a segmentation image.
+A Jupyter notebook that generates colorized cutouts of astronomical data given a segmentation image.
